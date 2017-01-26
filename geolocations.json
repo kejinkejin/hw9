@@ -1,0 +1,54 @@
+[
+	
+  {
+    "locationName": "Fairfield",
+    "category": "store",
+    "location":[-93.006322064314205, 41.97602956146852]
+  },
+  {
+    "locationName": "Fairfield",
+    "category": "restaurant",
+    "location": [-91.98283700794832, 41.00687666391775]
+  },
+  {
+    "locationName": "Fairfield",
+    "category": "restaurant",
+    "location": [-91.92103700794832, 41.10607666391775]
+  },
+  {
+    "locationName": "Fairfield",
+    "category": "restaurant",
+    "location": [-91.18103700794832, 41.00697666391775]
+  },
+  {
+    "locationName": "Fairfield",
+    "category": "restaurant",
+    "location": [-91.28113700794832, 41.00687966391775]
+  },
+  {
+    "locationName": "Fairfield",
+    "category": "restaurant",
+    "location": [-91.25281700794832, 41.09687666391775]
+  },
+  {
+    "locationName": "Fairfield",
+    "category": "store",
+    "location":[-91.96356801838533, 41.00794536823822]
+  },
+  {
+    "locationName": "Fairfield",
+    "category": "store",
+    "location":[-91.97840599865572, 41.006998108463456]
+  },
+  {
+    "locationName": "Fairfield",
+    "category": "store",
+    "location":[-91.97591154427187, 41.00680784524252]
+  },
+  {
+    "locationName": "Fairfield",
+    "category": "store",
+    "location":[-91.006322064314205, 41.97602956146852]
+  }
+]
+
